@@ -9,8 +9,9 @@ mruby -b test0.mrb
 
 gcc -Iinclude/  -I /usr/include/ test1.c build/host/lib/libmruby.a -lm -otest1
 
-# More samples
+# More info
 
+ * http://www.mruby.org/
  * http://geekmonkey.org/2012/10/an-introduction-to-mini-ruby/
  * https://h2o.examp1e.net/install.html
  * https://github.com/h2o/h2o
